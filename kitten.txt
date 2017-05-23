@@ -1,0 +1,2 @@
+Hello, Kitty!
+Adding some text for git to track.
