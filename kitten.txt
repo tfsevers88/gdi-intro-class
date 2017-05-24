@@ -1,8 +1,5 @@
 Hello, Kitty!
 Adding some text for git to track.
 Adding yet still more text for git to track.
-<<<<<<< HEAD
 Adding another change along with a change to kitten2.txt
 Adding some text to test changing and reconsidering.
-=======
->>>>>>> parent of 4ccb487... Checking what happens when editing two files, staging and committing in bulk.

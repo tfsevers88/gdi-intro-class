@@ -1,1 +1,2 @@
 Adding content to kitten2.txt
+Editing kitten2.txt at same time as kitten.txt
