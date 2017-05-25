@@ -4,3 +4,4 @@ Adding yet still more text for git to track.
 Adding another change along with a change to kitten2.txt
 Adding some text to test changing and reconsidering.
 170525 - adding another line after adding branch "feature"
+170525 - Changing kitten on master.
